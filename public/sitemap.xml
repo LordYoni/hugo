@@ -16,5 +16,9 @@
     <loc>http://localhost:1313/posts/hello-world/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/test/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/testyoni/</loc>
   </url>
 </urlset>
